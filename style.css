@@ -1,0 +1,50 @@
+body {
+        margin-left:100px; 
+        margin-right:100px;
+    }
+
+    .jadwal {
+        background-image: url('aestheticBG2.jpg');
+        background-size: 100%;
+    }
+
+    .page1 {
+        background-image: url('aestheticBG2.jpg');
+        background-size: 100%;
+    }
+
+    table {
+        border-collapse: collapse;
+        overflow: hidden;
+        box-shadow: 0 0 20px rgba(0,0,0,0.1);
+        width: 100%;
+    }
+      
+    tr td {
+        padding: 8px;
+        background-color: linen;
+        color: purple;
+    }
+      
+    td:hover {
+        background-color: coral;
+    }
+    
+    td {
+        position: relative;
+    }
+    
+    .page2 {
+        background-image: url('aestheticBG6.jpg');
+        background-size: 100%;
+    }
+
+body h1 {
+    background-color:bisque;
+}
+
+body p {
+    background-color: bisque;
+}
+    
+
